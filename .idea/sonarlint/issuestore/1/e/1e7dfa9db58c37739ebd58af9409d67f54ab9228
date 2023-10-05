@@ -1,0 +1,12 @@
+
+g	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(ü´íüıÿÿÿÿ8 Ó¼ı¯1
+p
+java:S11925"NDefine a constant instead of duplicating this literal "å•†å“ä¸ºid: " 3 times.(Ù‚çãşÿÿÿÿ8 Ó¼ı¯1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(·¦¦8²Ó¼ı¯1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(Ù‚çãşÿÿÿÿ8³Ó¼ı¯1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(çºººüÿÿÿÿ8´Ó¼ı¯1
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(â¨›¬ùÿÿÿÿ8¶Ó¼ı¯1
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(˜–Çãùÿÿÿÿ8·Ó¼ı¯1
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(‰¦ö¼úÿÿÿÿ8·Ó¼ı¯1
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(Úëõåşÿÿÿÿ8·Ó¼ı¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı¨¦šÿÿÿÿÿ8­ÓÊı¯1

@@ -1,0 +1,49 @@
+
+u
+java:S11927"XDefine a constant instead of duplicating this literal "è¯·è¾“å…¥å•†å“ç¼–å·: " 4 times.(½æò¹8”Ü°ğ¯1
+}
+java:S1488€"_Immediately return this expression instead of assigning it to the temporary variable "userSel".(¥ßù8•Ü°ğ¯1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ºâßùÿÿÿÿ8´İ°ğ¯1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(™”Ñ¡şÿÿÿÿ8µİ°ğ¯1
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Šİ™;8µİ°ğ¯1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(šš¡³üÿÿÿÿ8µİ°ğ¯1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(˜¨ˆÑÿÿÿÿÿ8µİ°ğ¯1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(»–íÊşÿÿÿÿ8¶İ°ğ¯1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ù¶‘½øÿÿÿÿ8¶İ°ğ¯1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ÍÚË£ùÿÿÿÿ8»İ°ğ¯1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ƒšá¶8»İ°ğ¯1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(æ­„“8»İ°ğ¯1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(‚üûÜÿÿÿÿÿ8¼İ°ğ¯1
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(½æò¹8¼İ°ğ¯1
+U	java:S106="9Replace this use of System.out or System.err by a logger.(½æò¹8½İ°ğ¯1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(½ˆ²£8½İ°ğ¯1
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(½æò¹8½İ°ğ¯1
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(¨«ÅÒ8¾İ°ğ¯1
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(½æò¹8¾İ°ğ¯1
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(Ô·›üÿÿÿÿ8¿İ°ğ¯1
+U	java:S106["9Replace this use of System.out or System.err by a logger.(ı´‘Œ8¿İ°ğ¯1
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(Œû›»8Áİ°ğ¯1
+F
+java:S1940c")Use the opposite operator ("!=") instead.(É·Üä8¿İ°ğ¯1
+K
+java:S1940h")Use the opposite operator ("!=") instead.(š€Ğãşÿÿÿÿ8Àİ°ğ¯1
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Áİ°ğ¯1
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(´Ñÿ¦üÿÿÿÿ8Áİ°ğ¯1
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(Ãóå€ıÿÿÿÿ8Áİ°ğ¯1
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(š©ıœ8Áİ°ğ¯1
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(Š¿ƒúÿÿÿÿ8Âİ°ğ¯1
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(‚ï³¿ûÿÿÿÿ8Âİ°ğ¯1
+U	java:S106{"9Replace this use of System.out or System.err by a logger.(áÇ‡È8Æİ°ğ¯1
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(—›Œ»ÿÿÿÿÿ8×İ°ğ¯1
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(¥ŒåÔÿÿÿÿÿ8×İ°ğ¯1
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(´Ñÿ¦üÿÿÿÿ8Øİ°ğ¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.( –´ıÿÿÿÿÿ8éâ£ó¯1
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8Ù‹šô¯1

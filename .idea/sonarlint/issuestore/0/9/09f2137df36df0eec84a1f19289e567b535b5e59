@@ -1,0 +1,12 @@
+
+b	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(ê›°µ8€Óò¯1
+
+java:S1319B"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(×¸¦›øÿÿÿÿ8€Óò¯1
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÎÕıd8…Óò¯1
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(×ıÍııÿÿÿÿ8†Óò¯1
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÎÕıd8ˆÓò¯1
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(Àİçï8şŸò¯1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ø¹Õ£ÿÿÿÿÿ8ÛÊ ò¯1

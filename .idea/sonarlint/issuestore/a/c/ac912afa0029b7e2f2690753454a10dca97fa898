@@ -1,0 +1,17 @@
+
+_
+java:S2259n"BA "NullPointerException" could be thrown; "conn" is nullable here.(©Ù§8¿€Å÷¯1
+`
+java:S2259‡"BA "NullPointerException" could be thrown; "conn" is nullable here.(©Ù§8¿€Å÷¯1
+d
+java:S22599"BA "NullPointerException" could be thrown; "conn" is nullable here.(ÖÓÚºşÿÿÿÿ8²€Å÷¯1
+d
+java:S2259T"BA "NullPointerException" could be thrown; "conn" is nullable here.(ÖÓÚºşÿÿÿÿ8¿€Å÷¯1
+l
+java:S2095n"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©Ù§8¿€Å÷¯1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ä¦”±øÿÿÿÿ8Â€Å÷¯1
+J
+java:S3011•",This accessibility update should be removed.(˜ÂÓ˜8Õ€Å÷¯1
+O
+java:S3011–",This accessibility bypass should be removed.(™»—°ùÿÿÿÿ8Ö€Å÷¯1

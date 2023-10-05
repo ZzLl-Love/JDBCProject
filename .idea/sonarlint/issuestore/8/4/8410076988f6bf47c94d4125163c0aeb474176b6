@@ -1,0 +1,6 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ηύώδÿÿÿÿÿ8“Υωσ―1
+‹
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ƒ£‘8”Υωσ―1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ΞΨψ¥ύÿÿÿÿ8”Υωσ―1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(—°ψÿÿÿÿ8•Υωσ―1
